@@ -1,0 +1,10 @@
+#game-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#fortune-teller-img {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+}
